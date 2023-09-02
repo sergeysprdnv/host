@@ -25,6 +25,7 @@
 ### Задание 1
 
 ![Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/13.2.1.png)
+![Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/13.2.1_.png)
 
 ### Задание 2
 
